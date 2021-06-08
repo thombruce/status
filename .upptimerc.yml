@@ -7,6 +7,8 @@ sites:
     url: https://thombruce.com
   - name: Jameater
     url: https://jam.thombruce.com
+  - name: Popcorn
+    url: https://popcorn.thombruce.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
