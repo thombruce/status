@@ -44,9 +44,9 @@
     "url": "https://popcorn.thombruce.com",
     "icon": "https://favicons.githubusercontent.com/popcorn.thombruce.com",
     "slug": "popcorn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,7 +55,9 @@
     "timeWeek": 164,
     "timeMonth": 239,
     "timeYear": 230,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-25": 0
+    }
   },
   {
     "name": "Happy",
