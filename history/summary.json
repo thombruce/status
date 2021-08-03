@@ -6,15 +6,15 @@
     "slug": "thom-bruce-com",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "97.82%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
-    "time": 193,
-    "timeDay": 317,
-    "timeWeek": 213,
-    "timeMonth": 179,
-    "timeYear": 193,
+    "time": 194,
+    "timeDay": 269,
+    "timeWeek": 210,
+    "timeMonth": 177,
+    "timeYear": 194,
     "dailyMinutesDown": {
       "2021-08-01": 31,
       "2021-06-06": 43
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 221,
-    "timeDay": 156,
-    "timeWeek": 173,
-    "timeMonth": 207,
-    "timeYear": 221,
+    "time": 223,
+    "timeDay": 303,
+    "timeWeek": 203,
+    "timeMonth": 209,
+    "timeYear": 223,
     "dailyMinutesDown": {
       "2021-07-13": 22
     }
@@ -52,9 +52,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 241,
-    "timeDay": 166,
-    "timeWeek": 334,
-    "timeMonth": 236,
+    "timeDay": 277,
+    "timeWeek": 263,
+    "timeMonth": 231,
     "timeYear": 241,
     "dailyMinutesDown": {
       "2021-07-25": 23
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 228,
-    "timeDay": 111,
-    "timeWeek": 348,
-    "timeMonth": 232,
+    "timeDay": 234,
+    "timeWeek": 308,
+    "timeMonth": 235,
     "timeYear": 228,
     "dailyMinutesDown": {}
   }
