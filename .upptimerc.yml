@@ -6,6 +6,24 @@ sites:
   - name: ThomBruce.com
     url: https://thombruce.com
 
+  - name: The Definitive Edition
+    url: https://thedefinitiveedition.thombruce.com
+
+  - name: Free as in Beer
+    url: https://freeasinbeer.thombruce.com
+
+  - name: TNT
+    url: https://tnt.thombruce.com
+
+  - name: Toodles
+    url: https://toodles.netlify.app
+
+  - name: Umami
+    url: https://umami.thombruce.com
+
+  - name: Cusdis
+    url: https://cusdis.thombruce.com
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
