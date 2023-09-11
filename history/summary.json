@@ -24,18 +24,20 @@
     "url": "https://thedefinitiveedition.thombruce.com",
     "icon": "https://icons.duckduckgo.com/ip3/thedefinitiveedition.thombruce.com.ico",
     "slug": "the-definitive-edition",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3575,
-    "timeDay": 3914,
-    "timeWeek": 3575,
-    "timeMonth": 3575,
-    "timeYear": 3575,
-    "dailyMinutesDown": {}
+    "time": 3212,
+    "timeDay": 2113,
+    "timeWeek": 3095,
+    "timeMonth": 3212,
+    "timeYear": 3212,
+    "dailyMinutesDown": {
+      "2023-09-11": 0
+    }
   },
   {
     "name": "Free as in Beer",
@@ -68,7 +70,7 @@
     "uptimeYear": "100.00%",
     "time": 120,
     "timeDay": 62,
-    "timeWeek": 120,
+    "timeWeek": 105,
     "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {}
@@ -86,7 +88,7 @@
     "uptimeYear": "100.00%",
     "time": 199,
     "timeDay": 129,
-    "timeWeek": 199,
+    "timeWeek": 151,
     "timeMonth": 199,
     "timeYear": 199,
     "dailyMinutesDown": {}
@@ -104,7 +106,7 @@
     "uptimeYear": "100.00%",
     "time": 143,
     "timeDay": 48,
-    "timeWeek": 143,
+    "timeWeek": 126,
     "timeMonth": 143,
     "timeYear": 143,
     "dailyMinutesDown": {}
@@ -122,7 +124,7 @@
     "uptimeYear": "100.00%",
     "time": 7283,
     "timeDay": 7123,
-    "timeWeek": 7283,
+    "timeWeek": 7208,
     "timeMonth": 7283,
     "timeYear": 7283,
     "dailyMinutesDown": {}
