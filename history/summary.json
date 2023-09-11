@@ -24,19 +24,19 @@
     "url": "https://thedefinitiveedition.thombruce.com",
     "icon": "https://icons.duckduckgo.com/ip3/thedefinitiveedition.thombruce.com.ico",
     "slug": "the-definitive-edition",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3212,
-    "timeDay": 2113,
-    "timeWeek": 3095,
-    "timeMonth": 3212,
-    "timeYear": 3212,
+    "status": "up",
+    "uptime": "98.26%",
+    "uptimeDay": "87.27%",
+    "uptimeWeek": "98.18%",
+    "uptimeMonth": "98.26%",
+    "uptimeYear": "98.26%",
+    "time": 2959,
+    "timeDay": 1635,
+    "timeWeek": 2827,
+    "timeMonth": 2959,
+    "timeYear": 2959,
     "dailyMinutesDown": {
-      "2023-09-11": 0
+      "2023-09-11": 183
     }
   },
   {
