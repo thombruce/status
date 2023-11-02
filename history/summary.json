@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/thedefinitiveedition.thombruce.com.ico",
     "slug": "the-definitive-edition",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
+    "uptimeYear": "99.79%",
     "time": 3672,
     "timeDay": 4638,
     "timeWeek": 3935,
@@ -96,9 +96,9 @@
     "url": "https://umami.thombruce.com",
     "icon": "https://icons.duckduckgo.com/ip3/umami.thombruce.com.ico",
     "slug": "umami",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,7 +107,9 @@
     "timeWeek": 235,
     "timeMonth": 130,
     "timeYear": 129,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-02": 1
+    }
   },
   {
     "name": "Cusdis",
