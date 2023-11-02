@@ -96,19 +96,19 @@
     "url": "https://umami.thombruce.com",
     "icon": "https://icons.duckduckgo.com/ip3/umami.thombruce.com.ico",
     "slug": "umami",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 129,
-    "timeDay": 207,
-    "timeWeek": 235,
+    "timeDay": 158,
+    "timeWeek": 219,
     "timeMonth": 130,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2023-11-02": 1
+      "2023-11-02": 5
     }
   },
   {
