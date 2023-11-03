@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 134,
-    "timeDay": 156,
-    "timeWeek": 166,
-    "timeMonth": 142,
+    "timeDay": 194,
+    "timeWeek": 168,
+    "timeMonth": 146,
     "timeYear": 123,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 3672,
-    "timeDay": 4638,
-    "timeWeek": 3935,
-    "timeMonth": 3725,
-    "timeYear": 3672,
+    "time": 3687,
+    "timeDay": 4625,
+    "timeWeek": 3983,
+    "timeMonth": 3734,
+    "timeYear": 3687,
     "dailyMinutesDown": {
       "2023-09-11": 183
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 163,
-    "timeWeek": 167,
-    "timeMonth": 140,
-    "timeYear": 144,
+    "time": 145,
+    "timeDay": 210,
+    "timeWeek": 169,
+    "timeMonth": 145,
+    "timeYear": 145,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 134,
-    "timeDay": 212,
-    "timeWeek": 147,
-    "timeMonth": 133,
-    "timeYear": 134,
+    "time": 135,
+    "timeDay": 203,
+    "timeWeek": 157,
+    "timeMonth": 138,
+    "timeYear": 135,
     "dailyMinutesDown": {}
   },
   {
@@ -97,19 +97,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/umami.thombruce.com.ico",
     "slug": "umami",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 129,
-    "timeDay": 158,
-    "timeWeek": 219,
-    "timeMonth": 130,
-    "timeYear": 129,
-    "dailyMinutesDown": {
-      "2023-11-02": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 130,
+    "timeDay": 146,
+    "timeWeek": 224,
+    "timeMonth": 133,
+    "timeYear": 130,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cusdis",
@@ -122,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 7004,
-    "timeDay": 8048,
-    "timeWeek": 7033,
-    "timeMonth": 7009,
-    "timeYear": 7004,
+    "time": 7021,
+    "timeDay": 8033,
+    "timeWeek": 7082,
+    "timeMonth": 7037,
+    "timeYear": 7021,
     "dailyMinutesDown": {}
   }
 ]
