@@ -114,17 +114,19 @@
     "url": "https://cusdis.thombruce.com",
     "icon": "https://icons.duckduckgo.com/ip3/cusdis.thombruce.com.ico",
     "slug": "cusdis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6519,
-    "timeDay": 3456,
-    "timeWeek": 6419,
-    "timeMonth": 5721,
-    "timeYear": 6519,
-    "dailyMinutesDown": {}
+    "time": 6580,
+    "timeDay": 8706,
+    "timeWeek": 7361,
+    "timeMonth": 5978,
+    "timeYear": 6580,
+    "dailyMinutesDown": {
+      "2024-01-02": 0
+    }
   }
 ]
