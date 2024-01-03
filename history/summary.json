@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 74,
-    "timeWeek": 113,
-    "timeMonth": 107,
+    "timeDay": 121,
+    "timeWeek": 124,
+    "timeMonth": 109,
     "timeYear": 121,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 3543,
-    "timeDay": 281,
-    "timeWeek": 3208,
-    "timeMonth": 3176,
-    "timeYear": 3543,
+    "time": 3547,
+    "timeDay": 4014,
+    "timeWeek": 3143,
+    "timeMonth": 3171,
+    "timeYear": 3547,
     "dailyMinutesDown": {
       "2023-09-11": 183
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 80,
-    "timeWeek": 124,
+    "time": 127,
+    "timeDay": 62,
+    "timeWeek": 119,
     "timeMonth": 107,
-    "timeYear": 128,
+    "timeYear": 127,
     "dailyMinutesDown": {}
   },
   {
@@ -85,8 +85,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 33,
-    "timeWeek": 141,
+    "timeDay": 85,
+    "timeWeek": 150,
     "timeMonth": 82,
     "timeYear": 108,
     "dailyMinutesDown": {}
@@ -103,9 +103,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 59,
+    "timeDay": 74,
     "timeWeek": 70,
-    "timeMonth": 101,
+    "timeMonth": 102,
     "timeYear": 113,
     "dailyMinutesDown": {}
   },
@@ -116,17 +116,15 @@
     "slug": "cusdis",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6532,
-    "timeDay": 6021,
-    "timeWeek": 6615,
-    "timeMonth": 5817,
-    "timeYear": 6532,
-    "dailyMinutesDown": {
-      "2024-01-02": 5
-    }
+    "time": 6541,
+    "timeDay": 7428,
+    "timeWeek": 6612,
+    "timeMonth": 5832,
+    "timeYear": 6541,
+    "dailyMinutesDown": {}
   }
 ]
