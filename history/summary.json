@@ -22,18 +22,19 @@
     "url": "https://thedefinitiveedition.thombruce.com",
     "icon": "https://icons.duckduckgo.com/ip3/thedefinitiveedition.thombruce.com.ico",
     "slug": "the-definitive-edition",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 3430,
-    "timeDay": 607,
-    "timeWeek": 1594,
-    "timeMonth": 2919,
-    "timeYear": 3430,
+    "time": 3414,
+    "timeDay": 931,
+    "timeWeek": 1552,
+    "timeMonth": 2867,
+    "timeYear": 3414,
     "dailyMinutesDown": {
+      "2024-01-17": 0,
       "2023-09-11": 183
     }
   },
@@ -96,35 +97,39 @@
     "url": "https://umami.thombruce.com",
     "icon": "https://icons.duckduckgo.com/ip3/umami.thombruce.com.ico",
     "slug": "umami",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 120,
-    "timeWeek": 106,
-    "timeMonth": 108,
+    "timeDay": 133,
+    "timeWeek": 111,
+    "timeMonth": 109,
     "timeYear": 113,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "Cusdis",
     "url": "https://cusdis.thombruce.com",
     "icon": "https://icons.duckduckgo.com/ip3/cusdis.thombruce.com.ico",
     "slug": "cusdis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6268,
-    "timeDay": 779,
-    "timeWeek": 2563,
-    "timeMonth": 5281,
-    "timeYear": 6268,
-    "dailyMinutesDown": {}
+    "time": 6238,
+    "timeDay": 1476,
+    "timeWeek": 2515,
+    "timeMonth": 5189,
+    "timeYear": 6238,
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   }
 ]
