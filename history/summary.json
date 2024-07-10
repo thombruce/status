@@ -24,9 +24,9 @@
     "slug": "the-definitive-edition",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 3244,
     "timeDay": 4205,
@@ -34,7 +34,6 @@
     "timeMonth": 3094,
     "timeYear": 3244,
     "dailyMinutesDown": {
-      "2024-07-09": 2,
       "2023-09-11": 183
     }
   },
