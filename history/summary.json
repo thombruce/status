@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 126,
     "timeDay": 280,
-    "timeWeek": 168,
+    "timeWeek": 178,
     "timeMonth": 139,
     "timeYear": 130,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "99.96%",
     "time": 3273,
     "timeDay": 4226,
-    "timeWeek": 4155,
+    "timeWeek": 4173,
     "timeMonth": 3476,
     "timeYear": 3273,
     "dailyMinutesDown": {
@@ -60,18 +60,20 @@
     "url": "https://tnt.thombruce.com",
     "icon": "https://icons.duckduckgo.com/ip3/tnt.thombruce.com.ico",
     "slug": "tnt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 322,
-    "timeWeek": 170,
-    "timeMonth": 136,
+    "timeDay": 222,
+    "timeWeek": 178,
+    "timeMonth": 135,
     "timeYear": 124,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-26": 0
+    }
   },
   {
     "name": "Toodles",
@@ -86,7 +88,7 @@
     "uptimeYear": "100.00%",
     "time": 110,
     "timeDay": 114,
-    "timeWeek": 686,
+    "timeWeek": 779,
     "timeMonth": 230,
     "timeYear": 110,
     "dailyMinutesDown": {}
@@ -104,7 +106,7 @@
     "uptimeYear": "100.00%",
     "time": 123,
     "timeDay": 334,
-    "timeWeek": 247,
+    "timeWeek": 274,
     "timeMonth": 141,
     "timeYear": 123,
     "dailyMinutesDown": {}
@@ -122,7 +124,7 @@
     "uptimeYear": "100.00%",
     "time": 5860,
     "timeDay": 7773,
-    "timeWeek": 6676,
+    "timeWeek": 7576,
     "timeMonth": 6147,
     "timeYear": 5860,
     "dailyMinutesDown": {}
