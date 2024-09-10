@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 132,
-    "timeDay": 162,
-    "timeWeek": 453,
+    "timeDay": 108,
+    "timeWeek": 156,
     "timeMonth": 208,
     "timeYear": 138,
     "dailyMinutesDown": {
@@ -31,14 +31,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 3312,
-    "timeDay": 423,
-    "timeWeek": 3057,
-    "timeMonth": 3666,
-    "timeYear": 3300,
-    "dailyMinutesDown": {
-      "2023-09-11": 183
-    }
+    "time": 3315,
+    "timeDay": 4561,
+    "timeWeek": 3100,
+    "timeMonth": 3681,
+    "timeYear": 3311,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Free as in Beer",
@@ -70,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 127,
-    "timeDay": 134,
-    "timeWeek": 158,
-    "timeMonth": 137,
+    "timeDay": 156,
+    "timeWeek": 161,
+    "timeMonth": 139,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2024-07-27": 65,
@@ -91,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 75,
-    "timeWeek": 213,
-    "timeMonth": 154,
+    "timeDay": 110,
+    "timeWeek": 217,
+    "timeMonth": 157,
     "timeYear": 111,
     "dailyMinutesDown": {}
   },
@@ -109,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 125,
-    "timeDay": 72,
-    "timeWeek": 123,
-    "timeMonth": 126,
+    "timeDay": 98,
+    "timeWeek": 124,
+    "timeMonth": 125,
     "timeYear": 124,
     "dailyMinutesDown": {}
   },
@@ -126,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5918,
-    "timeDay": 477,
-    "timeWeek": 5562,
-    "timeMonth": 6337,
-    "timeYear": 5894,
+    "time": 5922,
+    "timeDay": 7573,
+    "timeWeek": 5575,
+    "timeMonth": 6333,
+    "timeYear": 5896,
     "dailyMinutesDown": {}
   }
 ]
