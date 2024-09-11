@@ -82,18 +82,20 @@
     "url": "https://toodles.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/toodles.netlify.app.ico",
     "slug": "toodles",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 33,
-    "timeWeek": 210,
-    "timeMonth": 157,
+    "timeDay": 60,
+    "timeWeek": 195,
+    "timeMonth": 154,
     "timeYear": 111,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-11": 0
+    }
   },
   {
     "name": "Umami",
