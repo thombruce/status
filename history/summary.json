@@ -82,19 +82,19 @@
     "url": "https://toodles.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/toodles.netlify.app.ico",
     "slug": "toodles",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 60,
-    "timeWeek": 195,
-    "timeMonth": 154,
+    "timeDay": 78,
+    "timeWeek": 186,
+    "timeMonth": 153,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2024-09-11": 0
+      "2024-09-11": 11
     }
   },
   {
