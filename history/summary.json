@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 132,
-    "timeDay": 173,
+    "timeDay": 154,
     "timeWeek": 158,
-    "timeMonth": 210,
+    "timeMonth": 212,
     "timeYear": 138,
     "dailyMinutesDown": {
       "2024-07-27": 65,
@@ -30,12 +30,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 3317,
-    "timeDay": 4138,
-    "timeWeek": 3114,
-    "timeMonth": 3697,
-    "timeYear": 3312,
+    "uptimeYear": "100.00%",
+    "time": 3320,
+    "timeDay": 4220,
+    "timeWeek": 3638,
+    "timeMonth": 3708,
+    "timeYear": 3328,
     "dailyMinutesDown": {}
   },
   {
@@ -68,10 +68,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 127,
-    "timeDay": 133,
-    "timeWeek": 163,
-    "timeMonth": 140,
-    "timeYear": 127,
+    "timeDay": 142,
+    "timeWeek": 158,
+    "timeMonth": 139,
+    "timeYear": 126,
     "dailyMinutesDown": {
       "2024-07-27": 65,
       "2024-07-26": 280
@@ -84,18 +84,16 @@
     "slug": "toodles",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 113,
+    "time": 112,
     "timeDay": 78,
-    "timeWeek": 186,
-    "timeMonth": 153,
-    "timeYear": 111,
-    "dailyMinutesDown": {
-      "2024-09-11": 11
-    }
+    "timeWeek": 133,
+    "timeMonth": 148,
+    "timeYear": 110,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Umami",
@@ -109,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 125,
-    "timeDay": 78,
-    "timeWeek": 110,
-    "timeMonth": 123,
+    "timeDay": 211,
+    "timeWeek": 124,
+    "timeMonth": 127,
     "timeYear": 124,
     "dailyMinutesDown": {}
   },
@@ -126,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5928,
-    "timeDay": 8046,
-    "timeWeek": 5619,
-    "timeMonth": 6355,
-    "timeYear": 5898,
+    "time": 5933,
+    "timeDay": 7785,
+    "timeWeek": 6642,
+    "timeMonth": 6365,
+    "timeYear": 5900,
     "dailyMinutesDown": {}
   }
 ]
