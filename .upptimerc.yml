@@ -6,12 +6,6 @@ sites:
   - name: ThomBruce.com
     url: https://thombruce.com
 
-  - name: The Definitive Edition
-    url: https://thedefinitiveedition.thombruce.com
-
-  - name: Free as in Beer
-    url: https://freeasinbeer.thombruce.com
-
   - name: TNT
     url: https://tnt.thombruce.com
 
