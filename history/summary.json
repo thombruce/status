@@ -66,10 +66,10 @@
     "url": "https://umami.thombruce.com",
     "icon": "https://icons.duckduckgo.com/ip3/umami.thombruce.com.ico",
     "slug": "umami",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
@@ -77,16 +77,18 @@
     "timeWeek": 147,
     "timeMonth": 144,
     "timeYear": 128,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 1
+    }
   },
   {
     "name": "Cusdis",
     "url": "https://cusdis.thombruce.com",
     "icon": "https://icons.duckduckgo.com/ip3/cusdis.thombruce.com.ico",
     "slug": "cusdis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -95,6 +97,8 @@
     "timeWeek": 7713,
     "timeMonth": 7347,
     "timeYear": 5912,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   }
 ]
