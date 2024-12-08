@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 139,
-    "timeDay": 123,
-    "timeWeek": 159,
+    "timeDay": 86,
+    "timeWeek": 145,
     "timeMonth": 142,
     "timeYear": 143,
     "dailyMinutesDown": {
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 134,
-    "timeDay": 115,
-    "timeWeek": 168,
-    "timeMonth": 164,
-    "timeYear": 135,
+    "timeDay": 129,
+    "timeWeek": 147,
+    "timeMonth": 163,
+    "timeYear": 134,
     "dailyMinutesDown": {
       "2024-07-27": 65,
       "2024-07-26": 280
@@ -48,17 +48,16 @@
     "slug": "toodles",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 1067,
-    "timeWeek": 419,
-    "timeMonth": 197,
+    "timeDay": 1094,
+    "timeWeek": 420,
+    "timeMonth": 199,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2024-12-07": 6,
       "2024-10-11": 21
     }
   },
@@ -74,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 125,
-    "timeWeek": 133,
-    "timeMonth": 128,
+    "timeDay": 112,
+    "timeWeek": 126,
+    "timeMonth": 127,
     "timeYear": 130,
     "dailyMinutesDown": {
       "2024-10-22": 22
@@ -93,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6089,
-    "timeDay": 7730,
-    "timeWeek": 7629,
-    "timeMonth": 6190,
-    "timeYear": 5937,
+    "time": 6092,
+    "timeDay": 7578,
+    "timeWeek": 7637,
+    "timeMonth": 6425,
+    "timeYear": 5956,
     "dailyMinutesDown": {
       "2024-10-22": 21
     }
