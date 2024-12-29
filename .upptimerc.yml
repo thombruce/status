@@ -12,12 +12,6 @@ sites:
   - name: Toodles
     url: https://toodles.netlify.app
 
-  - name: Umami
-    url: https://umami.thombruce.com
-
-  - name: Cusdis
-    url: https://cusdis.thombruce.com
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
